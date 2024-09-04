@@ -1,1 +1,3 @@
-# mwehehe
+{
+    "liveServer.settings.port": 5501
+}
