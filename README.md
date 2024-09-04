@@ -22,7 +22,6 @@
     <script src="script.js"></script>
 </body>
 </html>
-
 const wrapper = document.querySelector(".wrapper");
 const question = document.querySelector(".question");
 const gif = document.querySelector(".gif");
@@ -46,7 +45,6 @@ noBtn.addEventListener("mouseover", () => {
   noBtn.style.left = randomX + "px";
   noBtn.style.top = randomY + "px";
 });
-
 * {
     margin: 0;
     padding: 0;
